@@ -1,0 +1,1 @@
+-keepclassmembernames android.support.v4.app.Fragment.SaveState { <fields>; }
